@@ -8,7 +8,7 @@ pygame.init()
 
 # Set up the display window
 screen = pygame.display.set_mode((600, 400))
-pygame.display.set_caption("Display C Output with Pygbag")
+pygame.display.set_caption("Test")
 
 # Set font for rendering text
 font = pygame.font.Font(None, 48)
